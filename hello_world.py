@@ -1,2 +1,6 @@
 print("hello world!")
-print("Another world!")
+
+x=6
+y=7
+
+str(x) + "hello world"
